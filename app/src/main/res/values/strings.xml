@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Cultura Perú</string>
+    <string name="logo">CP</string>
+    <string name="bienvenida">Bienvenido a</string>
+    <string name="subtitulo">Explora nuestro patrimonio cultural</string>
+    <string name="destacado">MUSEO DESTACADO</string>
+    <string name="coleccion">Descubre más museos</string>
+    <string name="explorar">Explorar museo</string>
+    <string name="registros">Ver registros culturales</string>
+    <string name="imagen">Imagen del museo</string>
+    <string name="volver">Volver</string>
+    <string name="informacion">Información del museo</string>
+    <string name="horarios">Horarios y tarifas</string>
+    <string name="horario_texto">Consulta los horarios y tarifas oficiales antes de tu visita.</string>
+
+    <string name="museo_nacion">Museo de la Nación</string>
+    <string name="ubicacion">San Borja, Lima</string>
+    <string name="descripcion_nacion">Un espacio vinculado a la difusión y valoración del patrimonio cultural del Perú.</string>
+
+    <string name="museo_pachacamac">Museo de Sitio Pachacamac</string>
+    <string name="ubicacion_pachacamac">Lurín, Lima</string>
+    <string name="descripcion_pachacamac">Un museo dedicado a preservar y difundir el patrimonio arqueológico del santuario de Pachacamac.</string>
+
+    <string name="datos_titulo">Registros culturales</string>
+    <string name="datos_subtitulo">Explora nuestra colección</string>
+    <string name="datos_aviso">Datos de demostración. Próximamente se conectará el servicio web de AlwaysData.</string>
+    <string name="registro">Registro %1$d</string>
+    <string name="categoria">Categoría</string>
+    <string name="periodo">Periodo</string>
+    <string name="procedencia">Procedencia</string>
+    <string name="sala">Sala</string>
+    <string name="pendiente">Por confirmar</string>
+
+    <string name="cargando">Cargando registros...</string>
+    <string name="error_conexion">No se pudieron obtener los registros.</string>
+    <string name="reintentar">Reintentar</string>
+    <string name="sin_registros">No hay registros disponibles.</string>
+
+    <string name="pieza_1">Pieza de muestra 01</string>
+    <string name="pieza_2">Pieza de muestra 02</string>
+    <string name="pieza_3">Pieza de muestra 03</string>
+    <string name="ceramica">Cerámica</string>
+    <string name="textil">Textilería</string>
+    <string name="litico">Lítico</string>
+
+
+</resources>

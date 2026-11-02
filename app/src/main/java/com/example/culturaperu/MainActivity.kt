@@ -179,7 +179,7 @@ fun PantallaInicio(
                     color = Negro
                 )
             }
-
+// Menú principal de navegación
             Box {
 
                 BotonCircular(
